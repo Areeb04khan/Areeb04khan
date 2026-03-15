@@ -64,7 +64,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb04khan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Areeb04khan&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d)
 
 </div>
 
