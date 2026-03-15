@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Areeb Khan 👋
 
-<!--
-**Areeb04khan/Areeb04khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Analyst & SOC Enthusiast based in Varanasi, India  
+🔍 Passionate about threat detection, incident response, and security monitoring  
+🌱 Currently learning web development on the side  
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+![SIEM](https://img.shields.io/badge/SIEM-Security-red?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC-Operations-blue?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/Threat-Detection-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-areebkhan--folio.vercel.app-teal?style=flat-square)](https://areebkhan-folio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areeb4khan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/areeb4khan)
+
+---
+⚡ *Securing digital landscapes one alert at a time.*
