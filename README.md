@@ -21,7 +21,7 @@
 
 ## 👾 About Me
 
-- 🛡️ Cybersecurity Analyst & SOC Enthusiast based in **Varanasi, India**
+- 🛡️ Cybersecurity Analyst & SOC Enthusiast based in **Noida, India**
 - 🔍 Focused on **threat detection**, **incident response**, and **security monitoring**
 - 🌱 Also learning **web development** — from HTML all the way to React
 - ⚡ Believe in proactive defence over reactive response
